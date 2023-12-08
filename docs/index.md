@@ -18,7 +18,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 - GPA 3.4, graduation date December 2023
 
-`2014 - 2018`
+`2014-2018`
 __Westview High School__, Avondale, AZ
 
 - GPA 4.3, top 10 of graduating class
@@ -42,17 +42,16 @@ __Westview High School__, Avondale, AZ
 `April 2021 - Aug 2021`
 __Swift Transportation__, Phoenix, AZ
  
-- 
+- 6 month interniship with the billing team 
+- assisted with data entry and payment of bills sent to Swift Transportation
 
 ### Full Time Positions
 
 `Aug 2021 - Aug 2023`
 __Swift Transportation__, Invoice Processor
 
-- Responsible for accurate and timely payment of invoices sent directly from 
-outside vendors of over $10,000 per month
-- Worked daily in excel and company data systems to organize and make 
-full payments
+- Responsible for accurate and timely payment of invoices sent directly from outside vendors of over $10,000 per month
+- Worked daily in excel and company data systems to organize and make full payments
 - Helped vendors check status of payments and correct mistakes
 
 `Nov 2017 - Dec 2018`
